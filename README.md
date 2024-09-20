@@ -3,7 +3,7 @@
 ### Changes vs Snapshots
 | Changes | Snapshots|
 | ----- | ----- |
-| Change the | A |
+| Save the changed part |  Save the whole part  |
 ### Git is a software for Version Control and Collaboration
 
 ### Version Control
