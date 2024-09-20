@@ -1,8 +1,8 @@
 ## Lab 6
 
 ### Changes vs Snapshots
-| Changes | Snapshots|
-| 
+| | Changes | Snapshots|
+| ----- | ----- |
 ### Git is a software for Version Control and Collaboration
 
 ### Version Control
