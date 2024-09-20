@@ -1,7 +1,12 @@
-# Lab 6
+## Lab 6
 
-## Version Control
-**crucial** for:
+### Changes vs Snapshots
+| Changes | Snapshots|
+| 
+### Git is a software for Version Control and Collaboration
+
+### Version Control
+essential for:
 - Software development
 - Document management
 ---
