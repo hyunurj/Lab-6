@@ -4,7 +4,6 @@
 | Changes | Snapshots|
 | ----- | ----- |
 | Save the changed part |  Save the whole part  |
-### Git is a software for Version Control and Collaboration
 
 ### Version Control
 essential for:
@@ -12,32 +11,30 @@ essential for:
 - Document management
 ---
 ### Local Version Control
-Tracks changes on a **single machine**.
+Tracks changes on a Local Computer.
 
 ### Centralized Version Control
-Uses a **Central VCS Server** for version history.
+Uses a Central VCS Server for version history.
 
 ### Distributed Version Control
-Every contributor has a **complete copy** of the project.
+Every contributor has a whole copy of the project.
 
 ---
-## Three States of Git
+### Three States in Git
 1. **Modified**: File has been edited.
 2. **Staged**: File is ready to be committed.
-3. **Committed**: File changes are stored in the repository.
+3. **Committed**: File changes are stored.
 
 ---
+### Git Config
 
-## Installing Git
-
-- **Linux**: Use the package manager.
-- **Windows**: Download from [Git for Windows](https://git-scm.com/download/win).
-- **Mac**: Install from [Git for Mac](https://git-scm.com/download/mac).
+1. System Level: Affects all uses and repositories on the system.
+2. Global Level: Affects all repositories of a current user.
+3. Local Level: Specific to the current repository.
 
 ---
+### How to
 
-## Git Configuration
-
-- **System-wide** (all users):
-  ```bash
-  git config --system
+- Initialize a repository in an existing direcotry:
+  
+   
