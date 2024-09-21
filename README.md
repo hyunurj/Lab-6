@@ -36,5 +36,8 @@ Every contributor has a whole copy of the project.
 ### How to
 
 - Initialize a repository in an existing direcotry:
+```sh
+$ git init
+```
   
    
