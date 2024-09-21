@@ -6,7 +6,7 @@
 | Save the changed part |  Save the whole part  |
 
 ### Version Control
-essential for:
+Essential for:
 - Software development
 - Document management
 ---
@@ -33,42 +33,42 @@ Every contributor has a whole copy of the project.
 3. Local Level: Specific to the current repository.
 
 ---
-### How to
+### ***How to***
 
-- Initialize a repository in an existing direcotry:
+- *Initialize a repository in an existing direcotry:*
 ```sh
 $ git init
 ```
-- Check repository status:
+- *Check repository status:*
 ```sh
 $ git status
 ```
-- Add a new file to be staged:
+- *Add a new file to be staged:*
 ```sh
 $ git add [file_name]
 ```
-- Add all files to be staged:
+- *Add all files to be staged:*
 ```sh
 $ git add.
 ```
-- Unstage a file:
+- *Unstage a file:*
 ```sh
 $ git rm --cached [file_name]
 ```
 ---
-- Ignore a file:
+- *Ignore a file:*
 ```sh
 $ nano .gitignore
 ```
-- Commit:
+- *Commit:*
 ```sh
 $ git commit -m "commit message"
 ```
-- See the records:
+- *See the records:*
 ```sh
 $ git log
 ```
-- Change branch name:
+- *Change branch name:*
 ```sh
 $ git branch -m master main
 ```
