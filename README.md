@@ -60,6 +60,15 @@ $ git rm --cached [file_name]
 ```sh
 $ nano .gitignore
 ```
-*ignore all .a files:**.a
-
-   
+- Commit:
+```sh
+$ git commit -m "commit message"
+```
+- See the records:
+```sh
+$ git log
+```
+- Change branch name:
+```sh
+$ git branch -m master main
+```
