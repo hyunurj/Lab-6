@@ -39,5 +39,27 @@ Every contributor has a whole copy of the project.
 ```sh
 $ git init
 ```
-  
+- Check repository status:
+```sh
+$ git status
+```
+- Add a new file to be staged:
+```sh
+$ git add [file_name]
+```
+- Add all files to be staged:
+```sh
+$ git add.
+```
+- Unstage a file:
+```sh
+$ git rm --cached [file_name]
+```
+---
+- Ignore a file:
+```sh
+$ nano .gitignore
+```
+*ignore all .a files:**.a
+
    
